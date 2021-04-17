@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🐍 I'm currently working on some Python/Django + PostgreSQL projects.
+- 😄 Pronouns: He/Him
 
 <!--
 **PabloAlexis611/pabloalexis611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
