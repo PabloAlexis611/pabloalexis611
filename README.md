@@ -1,6 +1,28 @@
-### Hi there 👋
-- 🐍 I'm currently working on some Python/Django + PostgreSQL projects.
+## Hi there! 👋
+
+### Quick Bio (:
+- 👨‍🎓 B.S. in Computer Engineering
+- 🏫 Universidad Ana G. Méndez, Recinto de Gurabo
+- 🚀 I work with Aerospace stuff
+- 🐍 Currently working on some Python/Django + PostgreSQL projects
 - 😄 Pronouns: He/Him
+
+### Languages 💻
+- 👓 Visual Basic (.NET)
+- 🎵 C# (.NET)
+- ☕ Java
+- 🐍 Python
+- 🌐 HTML/CSS/JS
+- 📊 SQL (MySQL, MariaDB, PostgreSQL)
+
+### Technologies 🧠
+- 🔴 OpenShift
+- 🐳 Docker
+
+### Other Cool Stuff
+- ♻️ CI/CD
+- 🏜️ Sphinx
+- 🗃️ AWS S3, AWS Lightsail
 
 <!--
 **PabloAlexis611/pabloalexis611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
