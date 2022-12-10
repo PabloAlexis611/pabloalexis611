@@ -12,17 +12,15 @@
 - 🎵 C# (.NET)
 - ☕ Java
 - 🐍 Python
-- 🌐 HTML/CSS/JS
-- 📊 SQL (MySQL, MariaDB, PostgreSQL)
+- 🌐 HTML/CSS/JS (trying to learn React)
+- 📊 SQL (mostly PostgreSQL)
 
 ### Technologies 🧠
-- 🔴 OpenShift
-- 🐳 Docker
+- 🐳 Containerization (Docker)
 
 ### Other Cool Stuff
 - ♻️ CI/CD
 - 🏜️ Sphinx
-- 🗃️ AWS S3, AWS Lightsail
 
 <!--
 **PabloAlexis611/pabloalexis611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
