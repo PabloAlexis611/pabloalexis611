@@ -1,6 +1,7 @@
 ## Hi there! 👋
 
 ### Quick Bio (:
+- I mostly use GitLab (sorry GitHub, still love ya!)
 - 👨‍🎓 B.S. in Computer Engineering
 - 🏫 Universidad Ana G. Méndez, Recinto de Gurabo
 - 🚀 I work with Aerospace stuff
@@ -8,17 +9,18 @@
 - 😄 Pronouns: He/Him
 
 ### Languages 💻
-- 👓 Visual Basic (.NET)
+- 👓 Visual Basic (.NET) -> they had to teach me this in college, I guess
 - 🎵 C# (.NET)
 - ☕ Java
-- 🐍 Python
-- 🌐 HTML/CSS/JS (trying to learn React)
+- 🐍 Python (fav 🌟)
+- 🌐 HTML/CSS/JS (trying to learn ~~React~~ Angular)
 - 📊 SQL (mostly PostgreSQL)
 
 ### Technologies 🧠
 - 🐳 Containerization (Docker)
 
 ### Other Cool Stuff
+- 🔃 GraphQL
 - ♻️ CI/CD
 - 🏜️ Sphinx
 
